@@ -239,6 +239,38 @@ public class Main {
         System.out.println("------------------------------------------------------------");
         //________________________________________________________________________________
 
+
     }
 }
-
+/**
+ * ----------------------The task 2----------------------------
+ * Time for insert  new 1000 elements  on the  beginning in ArrayList - 49
+ * Time for insert  new 1000 elements on the beginning in LinkedList - 3
+ * ------------------------------------------------------------
+ * Time for insert  new 1000 elements  on the  middle in ArrayList - 12
+ * Time for insert  new 1000 elements  on the  middle in LinkedList - 166
+ * ------------------------------------------------------------
+ * Time for insert  new 1000 elements  on the end in ArrayList - 0
+ * Time for insert  new 1000 elements  on the end in LinkedList - 0
+ * ------------------------------------------------------------
+ * ----------------------The task 3----------------------------
+ * Time for update new 1000 elements  on the beginning in ArrayList - 0
+ * Time for update new 1000 elements  on the beginning in LinkedList - 1
+ * ------------------------------------------------------------
+ * Time for update new 1000 elements  on the middle in ArrayList - 8
+ * Time for update new 1000 elements  on the middle in LinkedList - 323
+ * ------------------------------------------------------------
+ * Time for update new 1000 elements  on the end in ArrayList - 0
+ * Time for update new 1000 elements  on the end in LinkedList - 3
+ * ------------------------------------------------------------
+ * ----------------------The task 4----------------------------
+ * Time for delete new 1000 elements  on the beginning in ArrayList - 42
+ * Time for delete new 1000 elements  on the beginning in LinkedList - 1
+ * ------------------------------------------------------------
+ * Time for delete new 1000 elements  on the middle in ArrayList - 13
+ * Time for delete new 1000 elements  on the middle in LinkedList - 416
+ * ------------------------------------------------------------
+ * Time for delete new 1000 elements  on the end in ArrayList - 1
+ * Time for delete new 1000 elements  on the end in LinkedList - 0
+ * ------------------------------------------------------------
+ */
